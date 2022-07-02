@@ -1,0 +1,28 @@
+****Comandos básicos para um bom desempenho no terminal.
+
+cd / - entra dentro da pasta
+
+dir - traz lista das pasta que há dentro
+
+cd windows... - entra dentro da pasta win
+
+cd.. - sai da pasta
+
+cls - limpa terminal
+
+mkdir nome pasta - cria uma pasta
+
+del nome da pasta - deleta arquivo
+
+rkmir nome da pasta - exclui pasta
+
+
+****Tópicos fundamentais para entender o funcionamento do Git
+
+incluir na pasta "git init"  #cria repositorio
+ls
+git config --global user.email "email..."
+git config --global user.name "nome usuario..."
+
+git add*
+git commit -m "nome comit..."

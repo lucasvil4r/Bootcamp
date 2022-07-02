@@ -1,0 +1,88 @@
+******Internet*********
+
+Temos-chaves
+
+download/upload - baixa/envia
+navegador - browser
+banda larga - conexão com net
+cache - site deixa algumas coisas salvas na sua maquina
+crack - piratiar um software entra com uma chave falsa nele
+emoticons/emoji - figurinhas
+gif/jpg/png - formatos de imagens
+host - servidor
+html - linguagem de marcação
+http - protocolo 
+icone - figura representativa
+link - ligação
+url - endereço de site
+login/logon - acesso site
+logout/logoff - desloga site
+mp3 - formato audio
+multimidia - execute diversos tipos de audios
+nick - apelido
+online/offline
+pixel - junção de palavras pixer+element
+spam - email enviados em massa
+virus - software malicioso
+keylogger - virus capta todos as teclas do seu teclado
+phishing - rouba dados enganando outra pessoa
+backup - copia de segurança dos dados
+blog - diario 
+vlog - diario em forma de video
+cyber"bulling - ameaças etc
+3g/4g/5g - velocidades de internet
+cookies - coleta de dados
+firewall - parede impedir acesso indevido
+hacker - encontra falhas no sites
+ip - endereço na rede
+click bait - click é venda
+fake news - noticias falsas
+pop-up - caixinhas desagradaveis
+
+
+*********Redes*********
+
+Backbone - gerenciam os trafecos da intenet
+
+Provedor de acesso - empresas telefonicas faz meio campo do usuario ao backbone
+
+caminho inverso - local host: 127.0.0.1
+
+TCP/IP - protocolo de controle de transmissão, ordem no trafeco do dado.
+
+caminho da net - placa de rede > rede configurada > tranporte TCP/IP > aplicação
+
+UDP - rapido/não confiável/carro do ovo/"usado para livestream"
+
+TCP - voltado à conexão/handshake/integridade, ordem dos dados/aplicativo de mensagens de texto
+
+
+***Termos comuns**
+
+404 erro - endereço URL inexistente.
+Alt - caixa de texto
+API - Parte do site que pode ser usado em outro
+Biblioteca/dll - Chama uma função especifica.
+Bootstrap - um dos framework mais usado.
+Breakpoints - pontos base da tela ou debug
+browser - navegador
+Controle de versão - GitHub
+Debug - Processo para verificar se não há falha
+Deploy - pacote a ser publicado
+Desing adaptativo - site responsivo, de adequa a varios tipos de tela.
+Dominio - www.google.com
+DPI - Proposão de pontos na tela
+FTP - forma de troca de dados.
+
+
+
+
+
+
+
+
+
+
+
+
+

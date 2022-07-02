@@ -1,0 +1,25 @@
+*******SEMANTICA*********
+
+<section> reprsenta uma sessão generica de conteudo
+
+<header> cabeçalho da sua pagina
+
+<article> representa conteudo relevante
+
+<anside> Conteudo relacionado ao conteudo da pagina
+
+<footer> pode ser rodapé da pagina
+
+<h1-<h6> Representa os titulos de uma pagina.
+
+<p> suporta links fotos e videos etc
+
+<a> interliga varios conteudos href= target= serve para nos indicar como nosso link sera aberto blank = diz para abrir link em outra aba.
+
+<img> scr= obrigatorio ele guarda caminho da imagem ou alt= melhor sensibilidade
+
+<ul> representa uma uma ordem de itens
+
+<ol> orfem dos itens são importantes
+
+<li> são os itens da lista
